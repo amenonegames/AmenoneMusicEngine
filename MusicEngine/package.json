@@ -1,0 +1,16 @@
+﻿{
+  "name": "com.amenone.musicengine",
+  "version": "1.0.0",
+  "displayName": "Amenone MusicEngine",
+  "description": "musicengine",
+  "unity": "2020.2",
+  "author": {
+    "name": "amenonegames"
+  },
+  "contributors": [
+    {
+      "name":  "geekdrums",
+      "url": "https://github.com/geekdrums/MusicEngine"
+    }
+  ]
+}
