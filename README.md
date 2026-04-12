@@ -1,7 +1,7 @@
 MusicEngine Based on MusicEngine by geekdrums
 ===========
 ## インポートURL
-https://github.com/amenonegames/AmenoneMusicEngine.git?path=/MusicEngine
+https://github.com/amenonegames/AmenoneMusicEngine.git?path=/Assets/MusicEngine
 
 
 ## 概要:
