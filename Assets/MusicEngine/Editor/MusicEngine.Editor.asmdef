@@ -2,7 +2,7 @@
     "name": "MusicEngine.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:94af01d5702f7ee4baf59b6b379e5d3d"
+        "GUID:3561e0fd2d70fda4490290129cb370b2"
     ],
     "includePlatforms": [
         "Editor"
